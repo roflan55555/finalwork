@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663010797 source:d:\Уник\Программирование\Лаба 1\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+
+1679484954 source:d:\univer\1 семестр\progr\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+

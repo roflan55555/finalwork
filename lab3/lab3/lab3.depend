@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664722540 source:d:\univer\progr\lab3\lab3\main.c
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<math.h>
+

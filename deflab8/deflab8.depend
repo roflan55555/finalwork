@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1671212492 source:d:\univer\progr\deflab8\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1684325344 source:d:\univer\1 семестр\progr\deflab8\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<cstdio>
+

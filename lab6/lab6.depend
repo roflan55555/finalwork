@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671120111 source:d:\univer\progr\lab6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

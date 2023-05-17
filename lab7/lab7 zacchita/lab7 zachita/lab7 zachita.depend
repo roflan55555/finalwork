@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667979351 source:d:\univer\progr\lab7\lab7 zacchita\lab7 zachita\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
