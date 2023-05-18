@@ -8,7 +8,11 @@ int main() {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
-    int a1,b2,c3,d,sum1,sum2,sum3,sum4,x,y,z;
+    int a
+    int b
+    int c
+    int d
+    int sum1,sum2,sum3,sum4,x,y,z;
 
     printf("¬ведите значение а = ");
     scanf("%d", &a);
